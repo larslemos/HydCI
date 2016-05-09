@@ -1,0 +1,23 @@
+In these solution, the following assumptions where made.
+
+i) A input line is terminated by a newline
+    Ex: glob is I // New line  after user press enter
+
+ii) A empty line is processed and taken as a end of input and program exit
+    Ex: glob is I // New line  after user press enter
+        //Empty Line
+
+iii) A question ends with "?"
+    Ex: How much is pish?
+
+iv) The sentence separator for "is" comes between identifiers/keywords of a transaction
+    Ex: glob "is" I
+
+v) Inputs are case sensitive
+    Ex: "pish" instead of "PISH"
+
+vi) Roman numbers input are specified in capitals
+    Ex: I,V
+
+vii) Identifier beside the "is" keyword on CREDITS input line is computed
+
